@@ -1,0 +1,4 @@
+Application name	Music Player
+API key	e151110d3585aa854cc86f34ac323166
+Shared secret	9fe5a51b63ca6663b78ccee64398c58c
+Registered to	Hitesh_Gautam
